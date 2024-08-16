@@ -1,0 +1,11 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore environment overrides
+.env
+
+# self-signed certificates for local development
+*/*.crt
+*/*.csr
+*/*.key
+*/*.pem
